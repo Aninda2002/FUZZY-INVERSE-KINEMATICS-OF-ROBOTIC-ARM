@@ -1,5 +1,4 @@
 # FUZZY INVERSE KINEMATICS OF ROBOTIC ARM
-
 ## Overview
 
 This project models the **Inverse Kinematics (IK)** of a 2-Link Robotic Arm using **Fuzzy Logic** in MATLAB.
