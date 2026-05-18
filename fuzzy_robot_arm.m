@@ -11,7 +11,6 @@
 %
 %% =========================================================
 
-
 %% CREATE SUGENO FIS
 fis = sugfis('Name','RobotArmInverseKinematics');
 
